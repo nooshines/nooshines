@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
-🏡 [website] [website] **/** 
-👔 [linkedin] [linkedin] 
+🏡 [website] 
+👔 [linkedin] 
 
 [linkedin]: https://www.linkedin.com/in/nooshin-esmaeilzadeh/
