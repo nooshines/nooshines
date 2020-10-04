@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a MERN Project .
 - 🌱 I’m currently learning Docker .
-- 💬 Ask me about anything 
+- 💬 Ask me about Full Stack Development
 - 📫 How to reach me: nooshin.esmaeilzadeh@yahoo.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
