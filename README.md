@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
+🏡 website  👔 linkedin
