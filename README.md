@@ -1,5 +1,5 @@
-### Full Stack Developer who loves to create things that benefit others ! 👋
-
+### < Hello World > 👋
+   ## I'm Nooshin ! I design and code beautifully simple things, and I ❤️ what I do .
 
 🏡 [website] 
 👔 [linkedin] 
