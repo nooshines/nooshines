@@ -1,5 +1,5 @@
-### < Hello World > 👋
-   ## I'm { Nooshin } ! I design and code beautifully simple things, and I ❤️ what I do .
+###  Hello World 👋
+   ## I'm < Nooshin /> ! I design and code beautifully simple things, and I ❤️ what I do .
 
 🏡 [website] 
 👔 [linkedin] 
